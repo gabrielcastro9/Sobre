@@ -1,0 +1,47 @@
+body {
+  background-color: #ecc19c;
+  color: #000000;
+}
+ul {
+  display: flex;
+  justify-content: space-between;
+  color: #000000;
+  list-style: none;
+  padding: 16px;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+a {
+  color: #000000;
+  text-decoration: none;
+}
+.ftcastro img {
+  width: 150px;
+  height: 190px;
+  border-radius: 190px;
+  border: 5px solid #1e847f;
+}
+.ftcastro {
+  text-align: center;
+} /* pra tudo q ta dentro da div */
+img img {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+h1 {
+  color: #1e847f;
+}
+footer img {
+  width: 40px;
+  height: 40px;
+}
+footer {
+  display: flex;
+  justify-content: center;
+}
+footer a {
+  margin: 20px;
+}
+footer p {
+  margin-top: 2px;
+}
